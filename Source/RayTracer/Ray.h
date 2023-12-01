@@ -5,8 +5,8 @@ struct ray_t
 {
 	ray_t() = default;
 	ray_t(const glm::vec3& origin, const glm::vec3& direction) :
-		origin(origin),
-		direction(glm::normalize(direction)) // Normalize the direction vector
+		origin(origin), // sets origin
+		direction(glm::normalize(direction)) // sets direction
 	{}
 
 	glm::vec3 At(float distance) const {
