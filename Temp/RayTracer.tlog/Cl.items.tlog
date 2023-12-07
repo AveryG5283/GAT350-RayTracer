@@ -2,6 +2,9 @@ C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Camera.cpp;C:\Users\Ave
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Canvas.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Canvas.obj
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Main.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Main.obj
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Material.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Material.obj
+C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Mesh.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Mesh.obj
+C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Plane.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Plane.obj
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Renderer.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Renderer.obj
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Scene.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Scene.obj
 C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Sphere.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Sphere.obj
+C:\Users\Avery\Desktop\GAT350-RayTracer\Source\RayTracer\Triangle.cpp;C:\Users\Avery\Desktop\GAT350-RayTracer\Temp\Triangle.obj
